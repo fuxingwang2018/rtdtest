@@ -1,4 +1,6 @@
 import numpy
+sys.path.insert(0, os.path.abspath('..'))
+from utils import tools
 
 def main():
 
